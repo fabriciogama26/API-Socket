@@ -15,3 +15,7 @@
 
 - Módulo threading
 - Servidor API socket multithread
+
+- Compartilhamento de recursos em programas multithread
+- Mecanismos de sincronismo
+- Exemplo de uso do Lock
